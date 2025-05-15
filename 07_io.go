@@ -75,7 +75,7 @@ func wc() {
 	}
 }
 
-func main06() {
+func main07() {
 	calc_size()
 	wc()
 	return

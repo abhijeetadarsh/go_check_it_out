@@ -20,7 +20,7 @@ var raw = `
   </body>
 </html>`
 
-func main() {
+func main11() {
 	doc, err := html.Parse(bytes.NewReader([]byte(raw)))
 
 	if err != nil {

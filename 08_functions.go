@@ -1,6 +1,6 @@
 package main
 
-func main09() {
+func main08() {
 	/*
 		Functions are "first class" objects; you can:
 		- Define them - even inside another function

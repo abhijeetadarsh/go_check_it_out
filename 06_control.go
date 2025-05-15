@@ -183,7 +183,7 @@ func types() {
 	// - assign an integer literal to float, complex also
 }
 
-func main05() {
+func main06() {
 	control_statements()
 	fmt.Println()
 	packages()

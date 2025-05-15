@@ -70,7 +70,7 @@ func maps() { // unordered map based on hash table
 	}
 }
 
-func main04() {
+func main05() {
 	arrays()
 	fmt.Println()
 	slices()

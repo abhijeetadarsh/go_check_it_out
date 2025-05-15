@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main03() {
+func main04() {
 	s := "हिhello"
 
 	fmt.Printf("%T %[1]v %v\n", s, len(s))

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main02() {
+func main03() {
 	a, b := 2, 20.1
 	var c complex128
 	var (
