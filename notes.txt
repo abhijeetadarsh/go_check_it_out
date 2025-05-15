@@ -1,0 +1,12 @@
+A Github account with your own project will go further than a certificate.
+The application can be pointless as well. It's just a learning experience at the end of the day. Github is free, and github actions is free for open source repositories.
+It would be impressive to see
+    an app that compiles
+    has unit tests
+    runs unit tests in ci
+    has some sort of build system, like goreleaser.
+
+This is a lot of work if you've not done in before, but will be much more impressive than a certificate and likely place you ahead of others who also have little to no experience.
+Going further, and application that takes advantage of interfaces and channels will be more impressive. The goal is to show you understand how to do things in Go.
+
+scr: https://www.reddit.com/r/golang/comments/woxqvu/best_certification_for_go_dev/
